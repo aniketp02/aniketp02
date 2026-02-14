@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Aniket!
 
-I'm a Senior in Electrical Engineering at IIT Bombay. Exploring Deep Learning, Solidity and Blockchain.
+I am currently focused on the intersection of infrastructure resilience and autonomous intelligence. My goal is to bridge the gap between core cloud platforms and the "application understanding layer" required for the next generation of software.
 
 [![Linkedin: Aniket Pokle](https://img.shields.io/badge/-Aniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-pokle/)](https://www.linkedin.com/in/aniket-pokle/)
 [![GitHub aniketp02](https://img.shields.io/github/followers/aniketp02?label=follow&style=social)](https://github.com/aniketp02)
 
 
-- 🔭 I'm currently training awesome models in Computer Vision
-- 🌱 Learning Solidity and Blockchain
+- 🔭 Developing layers that allow infrastructure to gain a deeper, agentic context of the applications it hosts.
+- 🌱 Designing agentic workflows and LLM orchestration within Kubernetes.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Reach me at pokleaniket92@gmail.com
 
